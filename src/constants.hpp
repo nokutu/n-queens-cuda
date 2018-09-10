@@ -8,6 +8,7 @@
 const int SIDE = 20;
 const int POPULATION_SIZE = 10000;
 const int THREADS_PER_BLOCK = 1000;
+const int TOURNAMENT_BEST = 100;
 
 const double MUTATION_PROBABILITY = 0.05;
 
